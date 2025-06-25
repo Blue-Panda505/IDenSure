@@ -57,4 +57,4 @@ The Identity Guard Check can help Zynga by enabling secure age verification, ide
 ## PPT(To give you more insights)
 https://drive.google.com/file/d/179iRbqa_AbL2RvdR5AEsFTvbK-zv8mpM/view?usp=sharing
 
-NOTE: Presently it is not hosted. 
+NOTE: Presently it is not hosted. We were facing certain issues with the code.
