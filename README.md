@@ -54,5 +54,7 @@ Consider providing options for multiple languages in the UI.
 ->**Integration into a Larger Ecosystem**
 The Identity Guard Check can help Zynga by enabling secure age verification, identity validation, and fraud prevention, fostering safer gaming environments and regulatory compliance.
 
+## PPT(To give you more insights)
+https://drive.google.com/file/d/179iRbqa_AbL2RvdR5AEsFTvbK-zv8mpM/view?usp=sharing
 
 NOTE: Presently it is not hosted. 
